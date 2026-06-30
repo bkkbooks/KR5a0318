@@ -1,0 +1,26 @@
+canonical_identifier: bkk:krp/KR5a0318/ZTDZ/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: 太華希夷志序帝八愚除晋寧河中府之幕職密邇華山稔聞希夷先生遺事公務之暇采古書所録或諺語之談其高風峻節信乎前宋一代之異人也故作太華希夷志以紀之先生明易深造玄妙之理視人之禍福物之休咎其應有如蓍龜當五代之時有撥亂濟世之志所學得皇王帝伯之道聞宋太祖登極知天下已定遂入華山爲道士徴召不至及太宗即位三宣至闕下待以賔禮賜坐與語所論事之凶吉靡不徴驗欲拜官堅辭弗受不乆放還山跡雖方外之士脗合中庸之道其脱落塵世泥滓軒冕傲睨公侯視萬乗若僚友恬退高隱不尚勢利足抑奔競之流可追配巢由嚴陵之節其崇名教厚風俗以助萬一云回顧吮癰舐痔奴顔婢膝昏暮扣人之門户驕人於白日者猶醬瓿之醯鷄奚足論哉輅遠居保郡官除蒲川爲家貧不免二千里來之任初兩任教官連仕縣職館閣名公鉅儒累舉詞翰之選當路齟齬不果用僕恥於奔競故碌碌居州縣之職以代耕未能展平生讀書之志恒鬱鬱不遂因閱古傳記感希夷先生之高節編次成一書俾新學之士激勵其志内有差訛鄙俗傳者之誤志其固陋就撰以補綴之以寫高遠之趣庶幾有取焉延祐甲寅秋七月己未日訥齋張輅序
+  hash: sha256:ff1883ee857e21910ad6341d52b1a3a6612eec7d02bb27436732d719168e375b
+  markers:
+  - {type: page-break, offset: 0, content: '', id: KR5a0318_SJB_000-050734a, image: sjb/05/050734a.png}
+metadata:
+  title: 太華希夷誌
+  edition:
+    short: ZTDZ
+    label: 【正統道藏・三家本】
+  date: '2015-08-28 23:46:43.541126'
+  source:
+    repository: kanripo
+    path: KR5a0318/KR5a0318_000.txt
+  image_base_urls:
+    SJB: http://img.kanripo.org/daoist/ztdz/
+    CK-KZ: http://img.kanripo.org/daoist/dzjy/CK-KZ/
+    YP-C: http://img.kanripo.org/daoist/dzjy/JY-C/
+    HFL: http://img.kanripo.org/daoist/ztdz/
+    WYG: http://img.kanripo.org/general/skqs/wyg/
+hash: sha256:71d5de2225295501cb6ed48d47e17e425bb09c07e5412269049618a0183df4e2
